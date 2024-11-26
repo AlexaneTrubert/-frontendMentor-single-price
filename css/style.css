@@ -41,6 +41,10 @@ body, html {
     font-family: 'Karla', sans-serif;
     background-color: var(--light-grey);
     padding: 2rem 1rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .cyan {
